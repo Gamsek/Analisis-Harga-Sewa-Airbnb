@@ -1,11 +1,7 @@
 # Capstone Project Module 2 - Analisis Harga Sewa Properti Airbnb
 
 <p align="center">
-<<<<<<< HEAD
-  <img src="..\docs\gambar landscape airbnb.jpg" alt="Header" width="800" height="400">
-=======
   <img src="..\docs\gambar landscape airbnb .jpg" alt="Header" width="800" height="400">
->>>>>>> 5a538775d1e7cb73eaf3ac801e331df10243c0b3
 </p>
 
 ## Context
