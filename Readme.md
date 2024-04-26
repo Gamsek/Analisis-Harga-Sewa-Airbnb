@@ -58,4 +58,4 @@ Lihat file ipynb & ppt.
 #### Untuk Pengguna atau Wisatawan:
 - **Pilihan Berdasarkan Budget**: Wisatawan dan pengguna Airbnb dapat menggunakan informasi ini untuk membuat keputusan yang lebih baik dalam memilih akomodasi yang sesuai dengan budget mereka, dengan mempertimbangkan betapa signifikannya perbedaan harga antara berbagai tipe kamar dan lokasi.
 
-[**Dashboard**](https://public.tableau.com/app/profile/arya.gamaseka/viz/AnalisisHargaSewaAirbnb/Dashboard1#1)
+[**Dashboard**](https://public.tableau.com/views/AnalisisHargaSewaAirbnb/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
